@@ -1,0 +1,12 @@
+# Configuraciones locales del editor (Visual Studio Code)
+.vscode/
+
+# Archivos basura del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de variables de entorno y credenciales (¡Súper importante!)
+.env
+*.pem
+*.csv
